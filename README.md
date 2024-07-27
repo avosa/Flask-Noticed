@@ -9,7 +9,7 @@ Flask-Noticed is not yet available on PyPI. You can install it directly from the
 Using Rye:
 
 ```bash
-rye add --git https://github.com/avosa/flask_noticed.git
+rye add flask_noticed@git+https://github.com/avosa/flask_noticed.git
 ```
 
 Using pip:
